@@ -1,2 +1,1 @@
-# corona-tracker-react
- 
+# corona-tracker
